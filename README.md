@@ -21,3 +21,5 @@ DGIdb software is available under the [MIT License](../LICENSE). DGIdb data are 
 Each data release is accompanied by a source-level licensing manifest that identifies the contributing sources, source versions, data-availability locations, and the primary license or terms-of-use reference for each resource. Where explicit licensing terms could not be identified during review, the manifest records this status and users should consult the original source before redistributing or reusing those data.
 
 Users are responsible for reviewing and complying with the terms applicable to each source included in a DGIdb release. In particular, a source’s public availability does not necessarily imply unrestricted redistribution or commercial reuse.
+
+Individual Source licensing is tracked in the [License excel document](https://github.com/dgidb/dgidb-data/blob/main/dgidb_source_licensing.xlsx).
